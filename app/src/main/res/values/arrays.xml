@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="loading">
+        <item>Connecting with server…</item>
+        <item>Please wait</item>
+    </string-array>
+</resources>
